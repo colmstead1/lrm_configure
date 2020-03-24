@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myEmotionality/login/static/css/main.d150f867.chunk.css",
+    "main.js": "/myEmotionality/login/static/js/main.a75b86ec.chunk.js",
+    "main.js.map": "/myEmotionality/login/static/js/main.a75b86ec.chunk.js.map",
+    "runtime-main.js": "/myEmotionality/login/static/js/runtime-main.61703aa0.js",
+    "runtime-main.js.map": "/myEmotionality/login/static/js/runtime-main.61703aa0.js.map",
+    "static/js/2.9900e0e8.chunk.js": "/myEmotionality/login/static/js/2.9900e0e8.chunk.js",
+    "static/js/2.9900e0e8.chunk.js.map": "/myEmotionality/login/static/js/2.9900e0e8.chunk.js.map",
+    "index.html": "/myEmotionality/login/index.html",
+    "precache-manifest.ab7ec372b8dd56d1f5a5e8666b599162.js": "/myEmotionality/login/precache-manifest.ab7ec372b8dd56d1f5a5e8666b599162.js",
+    "service-worker.js": "/myEmotionality/login/service-worker.js",
+    "static/css/main.d150f867.chunk.css.map": "/myEmotionality/login/static/css/main.d150f867.chunk.css.map",
+    "static/js/2.9900e0e8.chunk.js.LICENSE.txt": "/myEmotionality/login/static/js/2.9900e0e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61703aa0.js",
+    "static/js/2.9900e0e8.chunk.js",
+    "static/css/main.d150f867.chunk.css",
+    "static/js/main.a75b86ec.chunk.js"
+  ]
+}
